@@ -2,7 +2,7 @@
     "openapi": "3.0.0",
     "info": {
       "title": "eCommerce",
-      "description": "Una API para un foro donde podrás crear temas, responder publicaciones, crear tu usuario, identicarte...",
+      "description": "Un ecommerce donde podrás comprar :D y ya es muy noche ...",
       "version": "1.0.0"
     },
     "paths": {
